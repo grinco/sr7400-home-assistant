@@ -2,7 +2,7 @@
 
 Tested on hass.io  0.95.4 
 
-To install - just copy custom_components and deps directories under your home assistant root configuration directory and add the following to your config:
+To install - just copy [custom_components](https://github.com/grinco/sr7400-home-assistant/tree/master/custom_components) and [deps](https://github.com/grinco/sr7400-home-assistant/tree/master/deps) directories under your home assistant root configuration directory and add the following to your config:
 ```
   - platform: marantz  
     serial_port: /dev/ttyUSB0  
