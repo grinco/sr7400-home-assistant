@@ -1,0 +1,8 @@
+{
+  "domain": "marantz",
+  "name": "Marantz",
+  "documentation": "https://github.com/grinco/sr7400-home-assistant",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
